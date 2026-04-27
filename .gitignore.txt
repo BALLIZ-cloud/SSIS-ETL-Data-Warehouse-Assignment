@@ -1,0 +1,6 @@
+.vs/
+*.dtproj.user
+*.database
+*.log
+bin/
+obj/
